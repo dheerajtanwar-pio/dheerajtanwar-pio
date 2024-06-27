@@ -1,6 +1,6 @@
 <h1 align="center" style="color:Cornflowerblue">Hey There! I am Dheeraj Tanwar</h1>
 <div id="header" align="center">
-  <img src="https://cdn-kpbed.nitrocdn.com/RVLdsmUrzitKnVBooREyuLvkbbdGFquh/assets/images/source/rev-190ab77/programmers.io/wp-content/themes/programmers.io/assets/images/programmers-io.svg" width="100" />
+  <img src="https://cdn-kpbed.nitrocdn.com/RVLdsmUrzitKnVBooREyuLvkbbdGFquh/assets/images/source/rev-190ab77/programmers.io/wp-content/themes/programmers.io/assets/images/programmers-io.svg" width="200" />
 </div>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/dheeraj-tanwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
