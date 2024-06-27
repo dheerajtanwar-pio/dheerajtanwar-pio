@@ -7,10 +7,7 @@
 <br>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/dheeraj-tanwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://x.com/Dheeraj19723494?t=wRAJnzBbrgAlakaVnA5ryg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=black" alt="Twitter Badge" /></a>
-  <a href="https://www.instagram.com/tanwardheeraj49/" target="_blank"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
 </div>
-<div id="badges" align = "center"><img src="https://komarev.com/ghpvc/?username=dheerajtanwar-pio&style=for-the-badge&color=blue" alt="" /></div>
 <div align = "center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThrazRyZ2EwazhhanoxZWNlOWxsbG5nc294ejFvbHpscWI0aGI2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></div>
 
 ---
