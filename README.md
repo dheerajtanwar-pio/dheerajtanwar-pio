@@ -4,6 +4,7 @@
   <img src="https://cdn-kpbed.nitrocdn.com/RVLdsmUrzitKnVBooREyuLvkbbdGFquh/assets/images/source/rev-190ab77/programmers.io/wp-content/themes/programmers.io/assets/images/programmers-io.svg" width="400" />
   </a>
 </div>
+<br>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/dheeraj-tanwar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="https://x.com/Dheeraj19723494?t=wRAJnzBbrgAlakaVnA5ryg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=black" alt="Twitter Badge" /></a>
