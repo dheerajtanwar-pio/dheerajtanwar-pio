@@ -10,10 +10,8 @@
 ---
 ### 👨‍💻 About Me :
 I am a Technology Enthusiast From India
-- 🔭: Currently Working As IBMi Intern.
+- 🔭: Currently Working As IBMi Intern at Programmers.io
 - 🌱: Exploring new technologies.
-- ⚡: In my free time, I play games.
-
 ---
 ### 🛠️ Languages & Tools
 <div>
@@ -24,7 +22,8 @@ I am a Technology Enthusiast From India
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://th.bing.com/th/id/OIP.d0cZIYfxMHGNDNJEK4YxmwAAAA?w=179&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7">&nbsp;
 </div>
 
 ---
