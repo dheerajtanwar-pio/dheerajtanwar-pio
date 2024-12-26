@@ -9,8 +9,7 @@
 
 ---
 ### 👨‍💻 About Me :
-I am a Technology Enthusiast From India
-- 🔭: Currently Working As IBMi Intern at Programmers.io
+- 🔭: Currently Working As IBM i Trainee at Programmers.io
 - 🌱: Exploring new technologies.
 ---
 ### 🛠️ Languages & Tools
